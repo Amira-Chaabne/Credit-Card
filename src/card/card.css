@@ -1,0 +1,83 @@
+* {
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+}
+.backgroung {
+  border-radius: 12%;
+  width: 40%;
+  box-shadow: 10px 10px 30px 10px black;
+  margin-top: 100px;
+  margin-right: 580px;
+  margin-left: 70px;
+  opacity: 0.4;
+  position: relative;
+}
+.showName {
+  text-transform: uppercase;
+}
+.inout {
+  display: flex;
+}
+.write {
+  display: flex;
+  flex-direction: column;
+  margin-top: 180px;
+  margin-left: 750px;
+  position: fixed;
+  justify-content: space-between;
+  background-color: transparent;
+}
+
+input {
+  margin-bottom: 20px;
+  height: 40px;
+  width: 400px;
+  padding-left: 15px;
+}
+.show {
+  color: black;
+  justify-content: space-between;
+}
+.showName {
+  margin-top: 380px;
+  position: absolute;
+  margin-left: -1090px;
+  font-size: 17px;
+  background-color: transparent;
+}
+.showDate {
+  margin-top: 345px;
+  position: absolute;
+  margin-left: -920px;
+  font-size: 15px;
+  background-color: transparent;
+}
+.showNum {
+  margin-top: 295px;
+  position: absolute;
+  margin-left: -1040px;
+  font-size: 33px;
+  background-color: transparent;
+}
+.puce {
+  width: 7%;
+  position: absolute;
+  margin-left: -1040px;
+  margin-top: 200px;
+  background-color: transparent;
+}
+.logo {
+  width: 11%;
+  position: absolute;
+  margin-left: -735px;
+  margin-top: 325px;
+  background-color: transparent;
+}
+.title {
+  position: absolute;
+  margin-top: -290px;
+  margin-left: 280px;
+  color: black;
+  font-size: 35px;
+  background-color: transparent;
+}
